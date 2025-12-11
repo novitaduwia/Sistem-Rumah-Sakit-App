@@ -1,0 +1,7 @@
+{
+  "name": "Pusat Komando RS (Hospital Command Center)",
+  "description": "Sistem agen cerdas untuk koordinasi layanan rumah sakit dengan prinsip delegasi mutlak.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
