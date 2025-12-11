@@ -1,4 +1,4 @@
-import { FunctionDeclaration, SchemaType, Type } from "@google/genai";
+import { FunctionDeclaration, Type } from "@google/genai";
 
 export const APP_NAME = "Pusat Komando Layanan RS";
 
